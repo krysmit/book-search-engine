@@ -43,8 +43,8 @@ const SavedBooks = () => {
     return <h2>LOADING...</h2>;
   }
 
-  const savedBookIds = userData.savedBooks.map((book) => book.bookId);
-  saveBookIds(savedBookIds)
+  // const savedBookIds = userData.savedBooks.map((book) => book.bookId);
+  // saveBookIds(savedBookIds)
 
   return (
     <>
