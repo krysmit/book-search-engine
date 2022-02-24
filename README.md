@@ -27,10 +27,10 @@ If you want to run this project locally, the following must be installed on the 
 
 
 ### Feautures 
-
+* Bcrypt and JSON Webtoken are used for authorization
 
 ### Future Development 
-
+In future development of this app I am looking to create a way for users to leave rating on books they've read.
 
 ### Github Repository
 https://github.com/krysmit/book-search-engine
